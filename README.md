@@ -1,7 +1,4 @@
 # DtekProject
-The project for the Computer Science (Dtek) course
+My project for the Computer Organization and Components course.
 
-Link to our extended abstract:
-https://docs.google.com/document/d/1NUYDCdn3LbKvaLCngVcIIHgh_eVHOkZ2z4MX22G91bE/edit#
-
-
+### This repo is a copy from the actual repo which was used during the course and therefor the all the files where added in one commit.
